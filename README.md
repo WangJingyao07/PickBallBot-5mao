@@ -1,6 +1,8 @@
-![image](https://github.com/WangJingyao07/PickBallBot-5mao/assets/45681444/ee24195a-01ad-4208-baba-4cb1774322b0)# 🌈🔥 PickBallBot-5mao
+# 🌈🔥 PickBallBot-5mao
 
 🈶 This article is written in Chinese
+
+![image](https://github.com/WangJingyao07/PickBallBot-5mao/assets/45681444/3a65b772-883a-44cd-ac88-9217ce060105)
 
 ## Intro
 - 🎉 一个低预算，添加了各种trick的高准确率自主捡球机器人，500块“无中生有”构建属于自己的机器人，走过路过不要错过，无奇怪bug不到一周即可实现。包括自动与手动两种控制方法，仓库提供包括结构建模，底层PID控制，视觉算法等所有需求文件。
