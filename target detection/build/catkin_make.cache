@@ -1,0 +1,2 @@
+image:my_serial_node
+-DCATKIN_DEVEL_PREFIX=/home/jhj/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jhj/catkin_ws/install -G Unix Makefiles

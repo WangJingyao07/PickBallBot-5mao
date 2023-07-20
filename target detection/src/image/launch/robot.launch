@@ -1,0 +1,7 @@
+ <launch>
+    <!-- image Node-->
+    <node pkg="image" type="ping_subs.py" name="ping_subs" output="screen"/>
+    <node pkg="image" type="image_process_0806.py" name="image_process_0806" output="screen"/>  
+    <!-- my_serial Node-->
+    <node pkg="my_serial_node" type="my_serial_node" name="my_serial_node" output="screen"/>
+  </launch>

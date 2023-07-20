@@ -1,0 +1,8 @@
+<!--
+  Used for visualising rplidar in action.  
+  
+  It requires rplidar.launch.
+ -->
+<launch>
+  <node name="my_serial_node" pkg="my_serial_node" type="my_serial_node" output="screen" />
+</launch>

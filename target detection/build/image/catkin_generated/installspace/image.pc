@@ -1,0 +1,8 @@
+prefix=/home/jhj/catkin_ws/install
+
+Name: image
+Description: Description of image
+Version: 0.0.0
+Cflags: -I/home/jhj/catkin_ws/install/include
+Libs: -L/home/jhj/catkin_ws/install/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/jhj/catkin_ws/devel
+
+Name: my_serial_node
+Description: Description of my_serial_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jhj/catkin_ws/devel/lib 
+Requires: nav_msgs roscpp serial std_msgs tf
