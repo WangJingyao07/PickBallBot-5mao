@@ -2,6 +2,8 @@
 
 🈶 This article is written in Chinese
 
+❗ 仅用于个人学术研究
+
 <div align="center">
 	<img src="https://github.com/WangJingyao07/PickBallBot-5mao/assets/45681444/3a65b772-883a-44cd-ac88-9217ce060105" alt="Editor" width="500">
 </div>
