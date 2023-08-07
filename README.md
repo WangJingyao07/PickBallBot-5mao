@@ -3,8 +3,10 @@
 🈶 This article is written in Chinese/English
 
 ❗ 仅用于个人学术研究
+
 ❗ For personal academic research only
-（涉及版权，因此只公布自己修正的可公开代码部分与结构）
+
+❗ 涉及版权，因此只公布自己修正的可公开代码部分与结构
 
 <div align="center">
 	<img src="https://github.com/WangJingyao07/PickBallBot-5mao/assets/45681444/3a65b772-883a-44cd-ac88-9217ce060105" alt="Editor" width="500">
