@@ -2,9 +2,10 @@
 
 <p align="left">
     <img alt="ViewCount" valign="bottom" src="https://views.whatilearened.today/views/github/WangJingyao07/PickBallBot-5mao.svg">
-    <a href='https://github.com/MShawon/github-clone-count-badge'><img alt='GitHub Clones' valign="bottom" src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MShawon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github'></a>
+    <a href='https://github.com/WangJingyao07/github-clone-count-badge'><img alt='GitHub Clones' valign="bottom" src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/MShawon/cf89f3274d06170b8a4973039aa6220a/raw/clone.json&logo=github'></a>
     <img alt="releases" valign="bottom" src="https://img.shields.io/github/downloads/WangJingyao07/PickBallBot-5mao/total"> <code>since Sep 26</code>
 </p>
+
 
 🈶 This article is written in Chinese/English
 
