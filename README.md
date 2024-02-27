@@ -1,10 +1,5 @@
 # 🌈🔥 PickBallBot-5mao
 
-<p align="left">
-    <img alt="ViewCount" valign="bottom" src="https://views.whatilearened.today/views/github/WangJingyao07/PickBallBot-5mao.svg">
-    <img alt="releases" valign="bottom" src="https://img.shields.io/github/downloads/WangJingyao07/PickBallBot-5mao/total"> <code>since Sep 26</code>
-</p>
-
 
 🈶 This article is written in Chinese/English
 
