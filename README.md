@@ -1,8 +1,9 @@
 # 🌈🔥 PickBallBot-5mao
-
+![Static Badge](https://img.shields.io/badge/Robot-Design-blue)
 ![pv](https://pageview.vercel.app/?github_user=WangJingyao07/PickBallBot-5mao)
 ![Total Visitors](https://img.shields.io/badge/Total_Visitors-512-blue)
 ![Repo Clones](https://img.shields.io/badge/Clones-56-blue)
+![Stars](https://img.shields.io/github/stars/WangJingyao07/PickBallBot-5mao)
 
 🈶 This article is written in Chinese/English
 
